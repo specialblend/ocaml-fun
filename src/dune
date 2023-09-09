@@ -1,9 +1,3 @@
 (library
  (name fun)
- (public_name fun)
- )
-
-(env
- (dev
-  (flags
-   (:standard -w -9 -w -33))))
+ (public_name fun))

@@ -11,9 +11,9 @@
 
 (maintainers "cj@cavemon.dev")
 
-(license LICENSE)
+(license MIT)
 
-(documentation https://github.com/specialblend/ocaml-fun/blob/main/README.md)
+(documentation https://github.com/specialblend/ocaml-fun)
 
 (package
  (name fun)
