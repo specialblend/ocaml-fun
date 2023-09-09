@@ -6,7 +6,7 @@ maintainer: ["cj@cavemon.dev"]
 authors: ["cj@cavemon.dev"]
 license: "MIT"
 homepage: "https://github.com/specialblend/ocaml-fun"
-doc: "https://github.com/specialblend/ocaml-fun/blob/main/README.md"
+doc: "https://specialblend.github.io/ocaml-fun"
 bug-reports: "https://github.com/specialblend/ocaml-fun/issues"
 depends: [
   "ocaml"
