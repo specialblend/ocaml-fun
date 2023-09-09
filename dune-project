@@ -13,7 +13,7 @@
 
 (license MIT)
 
-(documentation https://github.com/specialblend/ocaml-fun)
+(documentation https://github.com/specialblend/ocaml-fun/blob/main/README.md)
 
 (package
  (name fun)
